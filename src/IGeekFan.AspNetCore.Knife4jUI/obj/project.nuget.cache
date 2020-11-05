@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k6lmCk71d8ra93FLhfjuZkC3FKwvMupiY8MMaRdQZsRJN/pBxz38MGesg31ZqB/czPdgppADph5di1sRvTDf4A==",
+  "dgSpecHash": "MydpXn03gqogIQfN7pzQ4ZROyLuvrnd5SBdcNTGeQU5jIqdNoezuUeR5pDuSM++SLcnsbFtgASrBNQTDNWJBHQ==",
   "success": true,
-  "projectFilePath": "E:\\test\\web\\src\\IGeekFan.AspNetCore.Knife4jUI\\IGeekFan.AspNetCore.Knife4jUI.csproj",
+  "projectFilePath": "E:\\test\\WebUI\\src\\IGeekFan.AspNetCore.Knife4jUI\\IGeekFan.AspNetCore.Knife4jUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.1.0\\microsoft.aspnetcore.hosting.abstractions.2.1.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.1.0\\microsoft.aspnetcore.hosting.server.abstractions.2.1.0.nupkg.sha512",

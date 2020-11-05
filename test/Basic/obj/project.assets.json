@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\test\\web\\test\\Basic\\Basic.csproj",
+      "projectUniqueName": "E:\\test\\WebUI\\test\\Basic\\Basic.csproj",
       "projectName": "Basic",
-      "projectPath": "E:\\test\\web\\test\\Basic\\Basic.csproj",
+      "projectPath": "E:\\test\\WebUI\\test\\Basic\\Basic.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\test\\web\\test\\Basic\\obj\\",
+      "outputPath": "E:\\test\\WebUI\\test\\Basic\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -205,8 +205,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "E:\\test\\web\\src\\IGeekFan.AspNetCore.Knife4jUI\\IGeekFan.AspNetCore.Knife4jUI.csproj": {
-              "projectPath": "E:\\test\\web\\src\\IGeekFan.AspNetCore.Knife4jUI\\IGeekFan.AspNetCore.Knife4jUI.csproj"
+            "E:\\test\\WebUI\\src\\IGeekFan.AspNetCore.Knife4jUI\\IGeekFan.AspNetCore.Knife4jUI.csproj": {
+              "projectPath": "E:\\test\\WebUI\\src\\IGeekFan.AspNetCore.Knife4jUI\\IGeekFan.AspNetCore.Knife4jUI.csproj"
             }
           }
         }

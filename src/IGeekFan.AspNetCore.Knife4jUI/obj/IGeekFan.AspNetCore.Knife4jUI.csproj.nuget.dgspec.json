@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\test\\web\\src\\IGeekFan.AspNetCore.Knife4jUI\\IGeekFan.AspNetCore.Knife4jUI.csproj": {}
+    "E:\\test\\WebUI\\src\\IGeekFan.AspNetCore.Knife4jUI\\IGeekFan.AspNetCore.Knife4jUI.csproj": {}
   },
   "projects": {
-    "E:\\test\\web\\src\\IGeekFan.AspNetCore.Knife4jUI\\IGeekFan.AspNetCore.Knife4jUI.csproj": {
+    "E:\\test\\WebUI\\src\\IGeekFan.AspNetCore.Knife4jUI\\IGeekFan.AspNetCore.Knife4jUI.csproj": {
       "version": "0.0.7",
       "restore": {
-        "projectUniqueName": "E:\\test\\web\\src\\IGeekFan.AspNetCore.Knife4jUI\\IGeekFan.AspNetCore.Knife4jUI.csproj",
+        "projectUniqueName": "E:\\test\\WebUI\\src\\IGeekFan.AspNetCore.Knife4jUI\\IGeekFan.AspNetCore.Knife4jUI.csproj",
         "projectName": "IGeekFan.AspNetCore.Knife4jUI",
-        "projectPath": "E:\\test\\web\\src\\IGeekFan.AspNetCore.Knife4jUI\\IGeekFan.AspNetCore.Knife4jUI.csproj",
+        "projectPath": "E:\\test\\WebUI\\src\\IGeekFan.AspNetCore.Knife4jUI\\IGeekFan.AspNetCore.Knife4jUI.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "E:\\test\\web\\src\\IGeekFan.AspNetCore.Knife4jUI\\obj\\",
+        "outputPath": "E:\\test\\WebUI\\src\\IGeekFan.AspNetCore.Knife4jUI\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
