@@ -1,0 +1,9 @@
+E:\www\spd-leader-api\spd-common\bin\Debug\netcoreapp3.1\SpdCommon.deps.json
+E:\www\spd-leader-api\spd-common\bin\Debug\netcoreapp3.1\SpdCommon.dll
+E:\www\spd-leader-api\spd-common\bin\Debug\netcoreapp3.1\SpdCommon.pdb
+E:\www\spd-leader-api\spd-common\obj\Debug\netcoreapp3.1\spd-common.AssemblyInfoInputs.cache
+E:\www\spd-leader-api\spd-common\obj\Debug\netcoreapp3.1\spd-common.AssemblyInfo.cs
+E:\www\spd-leader-api\spd-common\obj\Debug\netcoreapp3.1\spd-common.csproj.CoreCompileInputs.cache
+E:\www\spd-leader-api\spd-common\obj\Debug\netcoreapp3.1\SpdCommon.dll
+E:\www\spd-leader-api\spd-common\obj\Debug\netcoreapp3.1\SpdCommon.pdb
+E:\www\spd-leader-api\spd-common\obj\Debug\netcoreapp3.1\spd-common.csprojAssemblyReference.cache
