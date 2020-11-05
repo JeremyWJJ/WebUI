@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9P8Wvd1/UlmTRus1aaaTtFyO2K2xFBi+vGFP2gIQxMAMvSMGFM2Bu4JObwZOxJy+PL5W5RnNCBHkZ2My0rR17A==",
+  "dgSpecHash": "Lpsv3tDz5I/P9X8H+W6G6wRR1KtTDtLZEYrn2qehjj2SClU3wTqK1x6xdkD4qLUx4SCgcJas4Hwd5Mgx5QPTXw==",
   "success": true,
-  "projectFilePath": "E:\\test\\web\\test\\Basic\\Basic.csproj",
+  "projectFilePath": "E:\\test\\WebUI\\test\\Basic\\Basic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\5.5.1\\swashbuckle.aspnetcore.annotations.5.5.1.nupkg.sha512",
