@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Basic</name>
+    </assembly>
+    <members>
+        <member name="T:Basic.Controllers.CrudActionsController">
+            <summary>
+            Summary for CrudActionsController
+            </summary>
+        </member>
+        <member name="M:Basic.Controllers.CrudActionsController.Create(Basic.Controllers.Product)">
+            <summary>
+            Creates a <paramref name="product"/>
+            </summary>
+            <remarks>
+            ## Heading 1
+            
+                POST /products
+                {
+                    "id": "123",
+                    "description": "Some product"
+                }
+            
+            </remarks>
+            <param name="product"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Basic.Controllers.CrudActionsController.Get(System.String)">
+            <summary>
+            Searches the collection of products by description key words
+            </summary>
+            <param name="keywords" example="hello">A list of search terms</param>
+            <returns></returns>
+        </member>
+        <member name="M:Basic.Controllers.CrudActionsController.Get(System.Int32)">
+            <summary>
+            Returns a specific product
+            </summary>
+            <param name="id" example="111">The product id</param>
+            <returns></returns>
+        </member>
+        <member name="M:Basic.Controllers.CrudActionsController.Update(System.Int32,Basic.Controllers.Product)">
+            <summary>
+            Updates all properties of a specific product
+            </summary>
+            <param name="id" example="222"></param>
+            <param name="product"></param>
+        </member>
+        <member name="M:Basic.Controllers.CrudActionsController.Patch(System.Int32,System.Collections.Generic.IDictionary{System.String,System.Object})">
+            <summary>
+            Updates some properties of a specific product
+            </summary>
+            <param name="id" example="333"></param>
+            <param name="updates"></param>
+        </member>
+        <member name="M:Basic.Controllers.CrudActionsController.Delete(System.Int32)">
+            <summary>
+            Deletes a specific product
+            </summary>
+            <param name="id" example="444"></param>
+        </member>
+        <member name="T:Basic.Controllers.Product">
+            <summary>
+            Represents a product
+            </summary>
+        </member>
+        <member name="P:Basic.Controllers.Product.Id">
+            <summary>
+            Uniquely identifies the product
+            </summary>
+        </member>
+        <member name="P:Basic.Controllers.Product.Description">
+            <summary>
+            Describes the product
+            </summary>
+        </member>
+        <member name="P:Basic.Controllers.Address.Country">
+            <summary>
+            3-letter ISO country code
+            </summary>
+        </member>
+        <member name="P:Basic.Controllers.Address.City">
+            <summary>
+            Name of city
+            </summary>
+        </member>
+        <member name="M:Basic.Controllers.ResponseTypeAnnotationsController.CreateOrder(Basic.Controllers.Order)">
+            <summary>
+            Creates an order 
+            </summary>
+            <param name="order"></param>
+            <response code="201">Order created</response>
+            <response code="400">Order invalid</response>
+        </member>
+    </members>
+</doc>

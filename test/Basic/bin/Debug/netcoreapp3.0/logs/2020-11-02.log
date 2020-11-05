@@ -1,0 +1,83 @@
+2020-11-02 16:07:05.6404 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 16:07:42.3286 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 17:07:55.0020 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 17:14:01.4586 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 17:14:24.0881 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: http://0.0.0.0:5000 | 
+2020-11-02 17:14:36.2690 |  INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2020-11-02 17:14:36.2994 |  INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2020-11-02 17:14:36.3229 |  INFO | Microsoft.Hosting.Lifetime | Content root path: E:\test\IGeekFan.AspNetCore.Knife4jUI-master\test\Basic | 
+2020-11-02 17:28:03.7438 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 17:28:21.2724 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: http://0.0.0.0:5000 | 
+2020-11-02 17:28:31.3015 |  INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2020-11-02 17:28:31.3452 |  INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2020-11-02 17:28:31.3793 |  INFO | Microsoft.Hosting.Lifetime | Content root path: E:\test\IGeekFan.AspNetCore.Knife4jUI-master\test\Basic | 
+2020-11-02 17:29:37.3310 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 17:29:47.6435 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: http://0.0.0.0:5000 | 
+2020-11-02 17:29:47.6846 |  INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2020-11-02 17:29:47.7086 |  INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2020-11-02 17:29:47.7303 |  INFO | Microsoft.Hosting.Lifetime | Content root path: E:\test\IGeekFan.AspNetCore.Knife4jUI-master\test\Basic | 
+2020-11-02 17:30:15.1874 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 17:30:25.5246 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: http://0.0.0.0:5000 | 
+2020-11-02 17:30:26.4970 |  INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2020-11-02 17:30:26.9089 |  INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2020-11-02 17:30:26.9686 |  INFO | Microsoft.Hosting.Lifetime | Content root path: E:\test\IGeekFan.AspNetCore.Knife4jUI-master\test\Basic | 
+2020-11-02 17:31:06.4586 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 17:31:06.7456 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: http://0.0.0.0:5000 | 
+2020-11-02 17:31:06.7825 |  INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2020-11-02 17:31:06.8175 |  INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2020-11-02 17:31:06.8421 |  INFO | Microsoft.Hosting.Lifetime | Content root path: E:\test\IGeekFan.AspNetCore.Knife4jUI-master\test\Basic | 
+2020-11-02 17:33:22.7282 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 17:33:33.0450 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: http://0.0.0.0:5000 | 
+2020-11-02 17:33:33.1167 |  INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2020-11-02 17:33:33.4700 |  INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2020-11-02 17:33:33.5240 |  INFO | Microsoft.Hosting.Lifetime | Content root path: E:\test\IGeekFan.AspNetCore.Knife4jUI-master\test\Basic | 
+2020-11-02 17:34:00.4994 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 17:34:11.8008 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: http://0.0.0.0:5000 | 
+2020-11-02 17:34:11.8644 |  INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2020-11-02 17:34:11.9227 |  INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2020-11-02 17:34:11.9795 |  INFO | Microsoft.Hosting.Lifetime | Content root path: E:\test\IGeekFan.AspNetCore.Knife4jUI-master\test\Basic | 
+2020-11-02 17:45:23.5734 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 17:45:34.8364 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: http://0.0.0.0:5000 | 
+2020-11-02 17:45:34.8720 |  INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2020-11-02 17:45:34.8987 |  INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2020-11-02 17:45:34.9243 |  INFO | Microsoft.Hosting.Lifetime | Content root path: E:\test\IGeekFan.AspNetCore.Knife4jUI-master\test\Basic | 
+2020-11-02 17:47:21.6239 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 17:47:21.9365 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: http://0.0.0.0:5000 | 
+2020-11-02 17:47:21.9717 |  INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2020-11-02 17:47:22.0114 |  INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2020-11-02 17:47:22.0434 |  INFO | Microsoft.Hosting.Lifetime | Content root path: E:\test\IGeekFan.AspNetCore.Knife4jUI-master\test\Basic | 
+2020-11-02 17:49:23.4504 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 17:49:34.7096 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: http://0.0.0.0:5000 | 
+2020-11-02 17:49:34.7432 |  INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2020-11-02 17:49:34.7660 |  INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2020-11-02 17:49:34.7906 |  INFO | Microsoft.Hosting.Lifetime | Content root path: E:\test\IGeekFan.AspNetCore.Knife4jUI-master\test\Basic | 
+2020-11-02 17:50:38.6075 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 17:50:48.8644 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: http://0.0.0.0:5000 | 
+2020-11-02 17:50:48.8976 |  INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2020-11-02 17:50:48.9218 |  INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2020-11-02 17:50:48.9498 |  INFO | Microsoft.Hosting.Lifetime | Content root path: E:\test\IGeekFan.AspNetCore.Knife4jUI-master\test\Basic | 
+2020-11-02 17:51:21.4165 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 17:51:21.7144 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: http://0.0.0.0:5000 | 
+2020-11-02 17:51:21.7486 |  INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2020-11-02 17:51:21.7826 |  INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2020-11-02 17:51:21.8076 |  INFO | Microsoft.Hosting.Lifetime | Content root path: E:\test\IGeekFan.AspNetCore.Knife4jUI-master\test\Basic | 
+2020-11-02 17:59:15.4325 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 17:59:26.7074 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: http://0.0.0.0:5000 | 
+2020-11-02 17:59:26.7439 |  INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2020-11-02 17:59:26.7680 |  INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2020-11-02 17:59:26.8011 |  INFO | Microsoft.Hosting.Lifetime | Content root path: E:\test\IGeekFan.AspNetCore.Knife4jUI-master\test\Basic | 
+2020-11-02 18:01:11.5881 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 18:01:22.8638 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: http://0.0.0.0:5000 | 
+2020-11-02 18:01:22.8996 |  INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2020-11-02 18:01:22.9252 |  INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2020-11-02 18:01:22.9501 |  INFO | Microsoft.Hosting.Lifetime | Content root path: E:\test\IGeekFan.AspNetCore.Knife4jUI-master\test\Basic | 
+2020-11-02 18:03:48.4575 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 18:04:01.7464 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: http://0.0.0.0:5000 | 
+2020-11-02 18:04:01.7843 |  INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2020-11-02 18:04:01.8099 |  INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2020-11-02 18:04:01.8388 |  INFO | Microsoft.Hosting.Lifetime | Content root path: E:\test\IGeekFan.AspNetCore.Knife4jUI-master\test\Basic | 
+2020-11-02 18:18:26.0815 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-02 18:18:36.3575 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: http://0.0.0.0:5000 | 
+2020-11-02 18:18:36.3903 |  INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2020-11-02 18:18:36.4179 |  INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2020-11-02 18:18:36.4425 |  INFO | Microsoft.Hosting.Lifetime | Content root path: E:\test\IGeekFan.AspNetCore.Knife4jUI-master\test\Basic | 

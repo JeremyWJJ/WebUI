@@ -1,0 +1,100 @@
+﻿<!DOCTYPE html>
+<html lang=en>
+<head>
+    <meta charset=utf-8>
+    <meta http-equiv=X-UA-Compatible content="IE=edge">
+    <meta name=viewport content="width=device-width,initial-scale=1">
+    <link rel=icon href=favicon.ico>
+    <title>%(DocumentTitle)</title>
+    <!-- <link href="./knife4j/bootstrap/css/bootstrap.css" rel=preload as= style> -->
+    <link rel="stylesheet" href="./knife4j/bootstrap/css/bootstrap.css">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script type="text/javascript" src="./knife4j/bootstrap/js/bootstrap.js"></script>
+    <style>
+        .table-div {
+            width: 60%;
+            margin: auto;
+        }
+
+        .table-customize {
+            width: 100%;
+        }
+    </style>
+    <!-- <link href="./knife4j/bootstrap/js/bootstrap.js" rel=preload as=script> -->
+    <!-- <link href="./knife4j/bootstrap/js/jquery-3.5.1.min.js" rel=preload as=script> -->
+    %(HeadContent)
+</head>
+<body>
+    <!--<script>alert("aaaa")</script>-->
+    <center><h3>定时任务列表</h3></center>
+    <br />
+    <div class="table-div">
+        <table class="table table-striped table-hover table-bordered table-condensed table-customize">
+            <tr>
+                <th class="active">类名</th>
+                <th class="success">任务Key</th>
+                <th class="warning">任务组</th>
+                <th class="danger">执行时间</th>
+                <th class="info">任务状态</th>
+                <th class="info">执行状态</th>
+            </tr>
+            <tr>
+                <td class="active">SpdLeaderQuartz.Quartz.Jobs.BiJob</td>
+                <td class="success">bi1</td>
+                <td class="warning">bi1</td>
+                <td class="danger">0 03 10 * * ?</td>
+                <td class="info">ACTIVED</td>
+                <td class="info">正在执行</td>
+            </tr>
+            <tr>
+                <td class="active">SpdLeaderQuartz.Quartz.Jobs.BiJob</td>
+                <td class="success">bi2</td>
+                <td class="warning">bi2</td>
+                <td class="danger">0 03 10 * * ?</td>
+                <td class="info">ACTIVED</td>
+                <td class="info">未开始</td>
+            <tr>
+                <td class="active">SpdLeaderQuartz.Quartz.Jobs.BiJob</td>
+                <td class="success">bi3</td>
+                <td class="warning">bi3</td>
+                <td class="danger">0 03 10 * * ?</td>
+                <td class="info">ACTIVED</td>
+                <td class="info">未开始</td>
+            <tr>
+                <td class="active">SpdLeaderQuartz.Quartz.Jobs.BiJob</td>
+                <td class="success">bi4</td>
+                <td class="warning">bi4</td>
+                <td class="danger">0 03 10 * * ?</td>
+                <td class="info">ACTIVED</td>
+                <td class="info">未开始</td>
+            </tr>
+            <tr>
+                <td class="active">SpdLeaderQuartz.Quartz.Jobs.BiJob</td>
+                <td class="success">bi5</td>
+                <td class="warning">bi5</td>
+                <td class="danger">0 03 10 * * ?</td>
+                <td class="info">ACTIVED</td>
+                <td class="info">未开始</td>
+            </tr>
+        </table>
+        <button type="button" class="btn btn-primary mybtn">添加</button>
+    </div>
+    <script>
+        window.onload = function () {
+            $(".mybtn").click(function (e) {
+                $.ajax({
+                    url: "http://localhost:5000/test",
+                    success: function (result) {
+                        //let list = JSON.parse(result);
+                        $.each(result, function (key, val) {
+                            console.log(val);
+                            $(".table").append("<tr><td class='active'>" + val.jobClass + "</td><td class='success'>" + val.jobKey + "</td><td class='active'>" + val.jobGroup + "</td><td class='active'>" + val.jobCron + "</td><td class='active'>" + val.jobStatus + "</td></tr>");
+                        });
+                    }
+                })
+            });
+
+        }
+    </script>
+</body>
+</html>

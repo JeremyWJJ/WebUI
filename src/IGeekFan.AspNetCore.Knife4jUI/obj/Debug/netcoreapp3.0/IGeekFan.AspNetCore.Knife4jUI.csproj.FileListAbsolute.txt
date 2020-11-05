@@ -1,0 +1,12 @@
+E:\test\web\src\IGeekFan.AspNetCore.Knife4jUI\bin\Debug\netcoreapp3.0\hello.html
+E:\test\web\src\IGeekFan.AspNetCore.Knife4jUI\bin\Debug\netcoreapp3.0\IGeekFan.AspNetCore.Knife4jUI.deps.json
+E:\test\web\src\IGeekFan.AspNetCore.Knife4jUI\bin\Debug\netcoreapp3.0\IGeekFan.AspNetCore.Knife4jUI.dll
+E:\test\web\src\IGeekFan.AspNetCore.Knife4jUI\bin\Debug\netcoreapp3.0\IGeekFan.AspNetCore.Knife4jUI.pdb
+E:\test\web\src\IGeekFan.AspNetCore.Knife4jUI\bin\Debug\netcoreapp3.0\IGeekFan.AspNetCore.Knife4jUI.xml
+E:\test\web\src\IGeekFan.AspNetCore.Knife4jUI\obj\Debug\netcoreapp3.0\IGeekFan.AspNetCore.Knife4jUI.AssemblyInfoInputs.cache
+E:\test\web\src\IGeekFan.AspNetCore.Knife4jUI\obj\Debug\netcoreapp3.0\IGeekFan.AspNetCore.Knife4jUI.AssemblyInfo.cs
+E:\test\web\src\IGeekFan.AspNetCore.Knife4jUI\obj\Debug\netcoreapp3.0\IGeekFan.AspNetCore.Knife4jUI.csproj.CoreCompileInputs.cache
+E:\test\web\src\IGeekFan.AspNetCore.Knife4jUI\obj\Debug\netcoreapp3.0\IGeekFan.AspNetCore.Knife4jUI.dll
+E:\test\web\src\IGeekFan.AspNetCore.Knife4jUI\obj\Debug\netcoreapp3.0\IGeekFan.AspNetCore.Knife4jUI.xml
+E:\test\web\src\IGeekFan.AspNetCore.Knife4jUI\obj\Debug\netcoreapp3.0\IGeekFan.AspNetCore.Knife4jUI.pdb
+E:\test\web\src\IGeekFan.AspNetCore.Knife4jUI\obj\Debug\netcoreapp3.0\IGeekFan.AspNetCore.Knife4jUI.csprojAssemblyReference.cache

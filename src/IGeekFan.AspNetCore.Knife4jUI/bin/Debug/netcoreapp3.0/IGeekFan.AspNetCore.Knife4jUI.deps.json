@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "IGeekFan.AspNetCore.Knife4jUI/0.0.7": {
+        "runtime": {
+          "IGeekFan.AspNetCore.Knife4jUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IGeekFan.AspNetCore.Knife4jUI/0.0.7": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

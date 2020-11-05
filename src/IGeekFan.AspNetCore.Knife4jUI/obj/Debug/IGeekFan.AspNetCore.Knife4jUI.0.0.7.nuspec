@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>IGeekFan.AspNetCore.Knife4jUI</id>
+    <version>0.0.7</version>
+    <authors>igeekfan,xiaoym</authors>
+    <owners>igeekfan,xiaoym</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/luoyunchong/IGeekFan.AspNetCore.Knife4jUI</projectUrl>
+    <description>Middleware to expose an embedded version of the knife4j-vue-v3 from an ASP.NET Core application</description>
+    <copyright>Apache License 2.0</copyright>
+    <tags>swagger documentation discovery help webapi aspnet aspnetcore</tags>
+    <repository type="git" url="https://github.com/luoyunchong/IGeekFan.AspNetCore.Knife4jUI.git" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.0" />
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.AspNetCore.Routing" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.StaticFiles" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.FileProviders.Embedded" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="System.Text.Json" version="4.6.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="E:\test\web\src\IGeekFan.AspNetCore.Knife4jUI\bin\Debug\netcoreapp3.0\IGeekFan.AspNetCore.Knife4jUI.dll" target="lib\netcoreapp3.0\IGeekFan.AspNetCore.Knife4jUI.dll" />
+    <file src="E:\test\web\src\IGeekFan.AspNetCore.Knife4jUI\bin\Debug\netcoreapp3.0\IGeekFan.AspNetCore.Knife4jUI.xml" target="lib\netcoreapp3.0\IGeekFan.AspNetCore.Knife4jUI.xml" />
+    <file src="E:\test\web\src\IGeekFan.AspNetCore.Knife4jUI\bin\Debug\netstandard2.0\IGeekFan.AspNetCore.Knife4jUI.dll" target="lib\netstandard2.0\IGeekFan.AspNetCore.Knife4jUI.dll" />
+    <file src="E:\test\web\src\IGeekFan.AspNetCore.Knife4jUI\bin\Debug\netstandard2.0\IGeekFan.AspNetCore.Knife4jUI.xml" target="lib\netstandard2.0\IGeekFan.AspNetCore.Knife4jUI.xml" />
+  </files>
+</package>

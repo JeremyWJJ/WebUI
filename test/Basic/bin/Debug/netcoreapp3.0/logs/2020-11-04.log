@@ -1,0 +1,5 @@
+2020-11-04 14:19:07.2504 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: https://0.0.0.0:5001 | 
+2020-11-04 14:19:07.8795 |  INFO | Microsoft.Hosting.Lifetime | Now listening on: http://0.0.0.0:5000 | 
+2020-11-04 14:19:07.9321 |  INFO | Microsoft.Hosting.Lifetime | Application started. Press Ctrl+C to shut down. | 
+2020-11-04 14:19:07.9633 |  INFO | Microsoft.Hosting.Lifetime | Hosting environment: Development | 
+2020-11-04 14:19:07.9919 |  INFO | Microsoft.Hosting.Lifetime | Content root path: E:\test\IGeekFan.AspNetCore.Knife4jUI-master\test\Basic | 
