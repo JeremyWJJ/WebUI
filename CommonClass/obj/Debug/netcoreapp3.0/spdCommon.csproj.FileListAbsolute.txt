@@ -1,0 +1,9 @@
+E:\test\IGeekFan.AspNetCore.Knife4jUI-master\spdCommon\obj\Debug\netcoreapp3.0\spdCommon.csprojAssemblyReference.cache
+E:\test\IGeekFan.AspNetCore.Knife4jUI-master\spdCommon\obj\Debug\netcoreapp3.0\spdCommon.AssemblyInfoInputs.cache
+E:\test\IGeekFan.AspNetCore.Knife4jUI-master\spdCommon\obj\Debug\netcoreapp3.0\spdCommon.AssemblyInfo.cs
+E:\test\IGeekFan.AspNetCore.Knife4jUI-master\spdCommon\obj\Debug\netcoreapp3.0\spdCommon.csproj.CoreCompileInputs.cache
+E:\test\IGeekFan.AspNetCore.Knife4jUI-master\spdCommon\bin\Debug\netcoreapp3.0\spdCommon.deps.json
+E:\test\IGeekFan.AspNetCore.Knife4jUI-master\spdCommon\bin\Debug\netcoreapp3.0\spdCommon.dll
+E:\test\IGeekFan.AspNetCore.Knife4jUI-master\spdCommon\bin\Debug\netcoreapp3.0\spdCommon.pdb
+E:\test\IGeekFan.AspNetCore.Knife4jUI-master\spdCommon\obj\Debug\netcoreapp3.0\spdCommon.dll
+E:\test\IGeekFan.AspNetCore.Knife4jUI-master\spdCommon\obj\Debug\netcoreapp3.0\spdCommon.pdb
