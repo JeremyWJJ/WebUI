@@ -28,7 +28,7 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 
-namespace SpdCommon.Utils
+namespace Common.Utils
 {
     /// <summary>
     /// DBHelper

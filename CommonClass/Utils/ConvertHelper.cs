@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Reflection;
 
-namespace SpdCommon.Utils
+namespace Common.Utils
 {
     public class ConvertHelper
     {

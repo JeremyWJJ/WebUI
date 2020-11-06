@@ -1,4 +1,4 @@
-﻿namespace SpdCommon.Modules
+﻿namespace Common.Modules
 {
     public interface ICoreResultPagination
     {

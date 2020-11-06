@@ -6,3 +6,4 @@ E:\test\WebUI\CommonClass\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
 E:\test\WebUI\CommonClass\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
 E:\test\WebUI\CommonClass\obj\Debug\netcoreapp3.1\Common.dll
 E:\test\WebUI\CommonClass\obj\Debug\netcoreapp3.1\Common.pdb
+E:\test\WebUI\CommonClass\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache

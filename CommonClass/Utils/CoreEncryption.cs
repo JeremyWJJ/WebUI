@@ -1,17 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Security.Cryptography;
+﻿using System.Security.Cryptography;
 using System.Text;
 
-namespace SpdCommon.Utils
+namespace Common.Utils
 {
     // 加密
     public class CoreEncryption
     {
-
         /// <summary>
         /// 获得一个字符串的加密密文 此密文为单向加密(32位大写)，即不可逆(解密)密文
-        /// 
         /// </summary>
         /// <param name="plainText">待加密明文</param>
         /// <returns>已加密密文</returns>
@@ -37,6 +33,5 @@ namespace SpdCommon.Utils
             }
             return encryptText;
         }
-
     }
 }

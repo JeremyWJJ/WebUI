@@ -21,3 +21,4 @@ E:\test\WebUI\src\IGeekFan.AspNetCore.Knife4jUI\obj\Debug\netstandard2.0\IGeekFa
 E:\test\WebUI\src\IGeekFan.AspNetCore.Knife4jUI\obj\Debug\netstandard2.0\IGeekFan.AspNetCore.Knife4jUI.dll
 E:\test\WebUI\src\IGeekFan.AspNetCore.Knife4jUI\obj\Debug\netstandard2.0\IGeekFan.AspNetCore.Knife4jUI.xml
 E:\test\WebUI\src\IGeekFan.AspNetCore.Knife4jUI\obj\Debug\netstandard2.0\IGeekFan.AspNetCore.Knife4jUI.pdb
+E:\test\WebUI\src\IGeekFan.AspNetCore.Knife4jUI\obj\Debug\netstandard2.0\IGeekFan.AspNetCore.Knife4jUI.csprojAssemblyReference.cache

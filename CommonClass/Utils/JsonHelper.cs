@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace SpdCommon.Utils
+namespace Common.Utils
 {
     /// <summary>
     /// 分隔Json字符串为字典集合。

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SpdCommon.Modules
+namespace Common.Modules
 {
     [AttributeUsage(AttributeTargets.Property)]
     public class ColumnAttribute : Attribute

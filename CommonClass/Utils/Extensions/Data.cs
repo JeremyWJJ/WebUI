@@ -5,7 +5,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 
-namespace SpdCommon.Utils.Extensions
+namespace Common.Utils.Extensions
 {
     public static class Data
     {

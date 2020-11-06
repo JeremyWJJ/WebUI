@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Text.RegularExpressions;
 
-namespace SpdCommon.Utils.Extensions
+namespace Common.Utils.Extensions
 {
     public static class Validator
     {

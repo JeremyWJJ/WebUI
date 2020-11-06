@@ -1,7 +1,7 @@
-﻿using SpdCommon.Utils.Extensions;
+﻿using Common.Utils.Extensions;
 using System.Text;
 
-namespace SpdCommon.Utils
+namespace Common.Utils
 {
     public class StringHelper
     {

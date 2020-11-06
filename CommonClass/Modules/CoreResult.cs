@@ -1,6 +1,6 @@
 ﻿using Newtonsoft.Json;
 
-namespace SpdCommon.Modules
+namespace Common.Modules
 {
     public enum APIResultCode
     {

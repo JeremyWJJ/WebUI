@@ -1,9 +1,9 @@
-﻿using SpdCommon.Modules;
+﻿using Common.Modules;
 using System;
 using System.Security.Cryptography;
 using System.Text;
 
-namespace SpdCommon.Utils
+namespace Common.Utils
 {
     public class SHA1Helper
     {
