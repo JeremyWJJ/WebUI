@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace SpdCommon.Utils
+namespace Common.Utils
 {
     public static class MySqlDBExtensions
     {

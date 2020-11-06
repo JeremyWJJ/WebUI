@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SpdCommon.Utils
+namespace Common.Utils
 {
     /// <summary>
     /// 动态生产有规律的ID

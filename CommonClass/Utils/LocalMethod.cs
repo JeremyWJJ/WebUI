@@ -6,7 +6,7 @@ using System.Runtime.Serialization;
 using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
 
-namespace SpdCommon
+namespace Common
 {
     /// <summary>
     /// 扩展方法类

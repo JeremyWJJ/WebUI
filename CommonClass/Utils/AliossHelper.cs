@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-namespace SpdCommon.Utils
+namespace Common.Utils
 {
     internal class AliossHelper
     {

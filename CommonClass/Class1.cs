@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace spdCommon
+namespace Common
 {
     public class Class1
     {

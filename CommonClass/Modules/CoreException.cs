@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SpdCommon.Modules
+namespace Common.Modules
 {
     public class CoreException : Exception
     {
